@@ -1,10 +1,11 @@
-# Iron Lady Assignment
+# IronLady AI Projects
 
-## Task 1 – Career Guide Application
-File: app.py  
-Demo Video: https://drive.google.com/file/d/1dBlEYmPMkMs-MJCx2oc-PQFviqmtTkKo/view?usp=sharing
+This repository contains two projects developed as part of the Iron Lady hiring assignment.
 
-## Task 2 – Internal Candidate Management Tool
-File: task2app.py  
-Demo Video: https://drive.google.com/file/d/14Uyvvqk-62U0UX7xBdnpH4dSGzRjdnX2/view?usp=sharing
+## Projects
+1. AI Career Guide Application  
+2. Internal Automation Tool  
 
+The projects demonstrate basic AI concepts, application development, and automation workflows.
+
+Demo videos for both projects are provided separately via Google Drive.
